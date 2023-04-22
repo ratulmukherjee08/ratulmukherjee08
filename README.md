@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@mu20876817" target="blank"><img src="https://img.shields.io/twitter/follow/@mu20876817?logo=twitter&style=for-the-badge" alt="@mu20876817" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at <a href="ratulmukherjee08.github.io">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://ratulmukherjee08.github.io/">Portfolio</a>
 
 - 📫 How to reach me **ratulmukherjee08@gmail.com**
 
