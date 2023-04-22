@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratulmukherjee08" alt="ratulmukherjee08" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/@mu20876817" target="blank"><img src="https://img.shields.io/twitter/follow/@mu20876817?logo=twitter&style=for-the-badge" alt="@mu20876817" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/@mu20876817" target="blank"><img src="https://img.shields.io/twitter/follow/@mu20876817?logo=twitter&style=for-the-badge" alt="@mu20876817" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [ratulmukherjee08.github.io](ratulmukherjee08.github.io)
 
